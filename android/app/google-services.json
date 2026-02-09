@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "593648980136",
+    "project_id": "supply-risk-app",
+    "storage_bucket": "supply-risk-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593648980136:android:69d3cc7861989a25c4329d",
+        "android_client_info": {
+          "package_name": "com.example.supplyassist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5quG36fXHUQ4OaudFAy3T6LzguEengvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593648980136:android:a46e8694116de66dc4329d",
+        "android_client_info": {
+          "package_name": "com.mycompany.supplyassist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5quG36fXHUQ4OaudFAy3T6LzguEengvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
